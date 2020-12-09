@@ -1,0 +1,53 @@
+.testLoader{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.button__container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+.comment__body{
+    padding: 10px;
+    margin-left: 25px;
+}
+
+.cardContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+}
+
+.card__item{
+    width: 100%;
+    margin: 20px;
+}
+
+.blogTitle{
+    font-weight: 800;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.paginationContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.card__post{
+    padding: 20px;
+}
+
+.back__button{
+    margin-top: 300px; 
+}
